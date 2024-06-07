@@ -26,5 +26,5 @@ Users can provied ratings and add reviews.
 
 ## How to run Application
 - ``` npm i ```
-- ``` npm run prod```
+- ``` npm run prod ```
 - [localhost:3000](http://localhost:3000) or use .env to set the port as required
